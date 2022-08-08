@@ -3,6 +3,12 @@
 *superlegal
 *odeia filosofia
 *table tennis player
+*she/her
+*psicologia
+*ed. física
+*matemática
+*confusa
+
 <!--
 **ra7653/ra7653** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
