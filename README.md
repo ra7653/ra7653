@@ -1,16 +1,16 @@
 ### Hi there 👋
-
+*loira
+*superlegal
+*odeia filosofia
+*table tennis player
 <!--
 **ra7653/ra7653** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on ... nothing
+- 🌱 I’m currently learning ...desnessesary things
+- 🤔 I’m looking for help with ...something
+- 💬 Ask me about ...a cool book
+- 😄 Pronouns: ...she/her
+- ⚡ Fun fact: ... flies have 700 eyes
 -->
